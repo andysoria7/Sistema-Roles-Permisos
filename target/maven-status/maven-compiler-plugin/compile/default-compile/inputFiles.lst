@@ -1,0 +1,15 @@
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\persistencia\UsuarioJpaController.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\persistencia\ControladoraPersistencia.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\persistencia\exceptions\PreexistingEntityException.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\logica\Usuario.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\igu\AltaUsuarios.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\persistencia\exceptions\IllegalOrphanException.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\igu\PrincipalAdmin.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\persistencia\exceptions\NonexistentEntityException.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\logica\Controladora.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\igu\EdicionUsuarios.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\Login.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\logica\Rol.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\persistencia\RolJpaController.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\igu\LoginInicial.java
+E:\Cursos\Java\Curso POO TodoCodeAcademy\Login\src\main\java\com\todocodeacademy\login\igu\PrincipalUser.java
